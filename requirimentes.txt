@@ -1,0 +1,7 @@
+npm init
+
+npm i express 
+
+npm i nodemon
+
+ npm install bootstrap@5.3.2   
